@@ -1,0 +1,10 @@
+.shopitem{
+    margin: 20px auto;
+    width: 50%;
+    padding: 50px;
+    border-radius: 30px;
+    border: 1px palegreen solid;
+    background-color: rgb(239, 253, 253);
+    box-shadow: 0px 5px 20px gray;
+   
+  }
