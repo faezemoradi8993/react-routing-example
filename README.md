@@ -1,3 +1,6 @@
+# Developed and Designed by Faeze Moradi https://github.com/faezemoradi8993
+# I learned this from Dev Ed on YouTube channel
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
